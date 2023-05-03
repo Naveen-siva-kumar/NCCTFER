@@ -1,0 +1,1 @@
+Download resent18 pretrained with name res18_naive.pth_MSceleb.tar on MSCeleb-1M model and keep here.   
