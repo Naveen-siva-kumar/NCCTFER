@@ -16,3 +16,7 @@ In common folder:
 In model folder:
 	cnn.py builds the models
 	resnet.py has code for resnet models.
+	
+
+
+All the checkpoints are made available in link https://drive.google.com/drive/folders/11WW2O6Uc2P9MV3S33vjdfDJjbn-OsYvj?usp=sharing
